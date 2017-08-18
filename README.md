@@ -159,25 +159,25 @@ Required:
     -http://localhost:8000/api/invite/response?token={user_token} (POST)
 
 
-## Variable limits
+# Variable limits
 
-# Room
+## Room
 1-3
 
-# Month
+## Month
 01-12
 
-# Day
+## Day
 01-31  
 -Might need work based on month
 
-# Hour
+## Hour
 00-23
 
-# Minute
+## Minute
 00-59
 
-# Hour Finish
+## Hour Finish
 00-23  
 -Must be greater or equal to start  
 -Assuming same day
