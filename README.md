@@ -1,6 +1,6 @@
-#Meeting App
+# Meeting App
 
-#Api calls
+# Api calls
 
 localhost can be replaced by other web domains. This is a generic outline
 
