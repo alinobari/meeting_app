@@ -192,6 +192,6 @@ Required:
 To setup the database, run `php artisan migrate`. The necessary tables will then be installed.  
 
 ## Test the API
-A .json file in `tests/AWS Freshworks test.postman_collection.json` is provided to show the core functionality of the API. Some fields must be filled in by the user, since certain names and token will vary between uses.
+A .json file in `tests/AWStest.postman_collection.json` is provided to show the core functionality of the API. Some fields must be filled in by the user, since certain names and token will vary between uses.
 
 
